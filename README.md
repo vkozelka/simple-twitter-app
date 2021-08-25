@@ -11,8 +11,9 @@
 3. Spustit v terminálu v této složce příkaz `docker-compose build`
 4. Spustit v terminálu v této složce příkaz `docker-compose up`
 5. Spustit v terminálu v této složce příkaz `docker exec -it pilulka-test-app_app_1 composer install`
-6. Upravit hodnoty v `config/config.ini`
-7. Přejít na http://localhost
+6. Přejmenovat soubor `config/config.ini.example` na `config/config.ini`
+7. Upravit hodnoty v `config/config.ini`
+8. Přejít na http://localhost
 
 ## Informace
 

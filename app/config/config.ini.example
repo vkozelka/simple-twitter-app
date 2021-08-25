@@ -1,0 +1,2 @@
+TWITTER_OATUH_TOKEN="Your OAuth bearer token from Twitter Application"
+CACHE_DIR="var/cache"
